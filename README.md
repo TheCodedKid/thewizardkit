@@ -1,6 +1,6 @@
 # The Wizard Kit
 
-![Logo](https://imgur.com/a/w39WS9O)
+![Logo](https://i.imgur.com/4KA4Llj.png)
 
 [![Build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
