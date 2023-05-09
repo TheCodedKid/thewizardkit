@@ -1,18 +1,10 @@
 # The Wizard Kit
 
+![Logo](https://imgur.com/a/w39WS9O)
+
 [![Build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 The idea of this project is to create a shell/driver combination to create a secure way to use Linux. Utilizing a RP2040 basic board as the "key" or "wizard staff", the linux module is able to see and signal probe and disconnect events. From this, we created a shell that listens to those events, and creates an accessible shell only if the device is connected. 
-
-```"								  + 		  *    =
-								=  *		- 	+ 	*   *
-							   -   (\\.   \\   *  ,/)     -
-  _____ _____ _____ _____     _     \\(   |\\     )/\
- |     |  _  |   | |  _  |___| |_   //\\  | \\   /\\\\
- | | | |     | | | |     |_ -|   | (/ /\\_#oo#_/\\ \\)
- |_|_|_|__|__|_|___|__|__|___|_|_|  \\/\\  ####  /\\/
-		Wizardry, at a cost		           `##'
-```
 
 ## Authors
 
